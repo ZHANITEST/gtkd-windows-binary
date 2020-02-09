@@ -1,6 +1,10 @@
 # gtkd-windows-binary
 GtkD binary for Windows x64
 
+# Install guide
+* Follow here ☞ [GtkD github](https://github.com/gtkd-developers/GtkD/wiki/Installing-on-Windows)
+* U just copy this lib files to `dmddir\windows\lib`
+
 # QnA
 ## Q1. Is it for Windows x32?
 No.
